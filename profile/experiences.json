@@ -1,0 +1,31 @@
+{
+    "experiences": [
+        {
+            "title": "Mobile developer",
+            "subtitle": "Taqtile",
+            "workType": "Internship",
+            "workDescription": [
+                "There I worked with javascript, using react native in order to develop mobile applications."
+            ],
+            "dateText": "01/2022 – 04/2022"
+        },
+        {
+            "title": "Full stack",
+            "subtitle": "BTG Pactual",
+            "workType": "Internship",
+            "workDescription": [
+                "During the internship, I used technologies such as ReactJS, C# (ASP.NET), besides services provided by AWS (Lambda, SNS, SQS)"
+            ],
+            "dateText": "05/2021 – 08/2021"
+        },
+        {
+            "title": "Assistant",
+            "subtitle": "LSI-TEC",
+            "workType": "Internship",
+            "workDescription": [
+                "I supported students and teachers where the main goal was to build maker spaces in selected public schools."
+            ],
+            "dateText": "2020"
+        }
+    ]
+}

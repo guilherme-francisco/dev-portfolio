@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/guilhermemfran/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/guilherme-francisco"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:guilhermemariano5894@gmail.com"
+        }
+    ]
+}

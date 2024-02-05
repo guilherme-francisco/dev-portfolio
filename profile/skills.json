@@ -1,0 +1,120 @@
+{
+    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
+    "skills": [{
+     
+            "title": "Languages",
+            "items" : [
+                {
+                    "icon": "images/skills/languages/c-plus-4.svg",
+                    "title": "C#"
+                },
+                {
+                    "icon": "images/skills/languages/dart.png",
+                    "title": "Dart"
+                },
+                {
+                    "icon": "images/skills/languages/java.png",
+                    "title": "Java"
+                },
+                {
+                    "icon": "images/skills/languages/matlab.png",
+                    "title": "Matlab"
+                },
+                {
+                    "icon": "images/skills/languages/python.png",
+                    "title": "Python"
+                },
+                {
+                    "icon": "images/skills/languages/typescript.png",
+                    "title": "Typescript"
+                },
+                {
+                    "icon": "images/skills/languages/vhdl.jpg",
+                    "title": "VHDL"
+                }
+        ]},
+        {
+            "title": "Backend",
+            "items" : [
+                {
+                    "icon": "images/skills/backend/django.png",
+                    "title": "Django"
+                },
+                {
+                    "icon": "images/skills/backend/NestJS.svg",
+                    "title": "NestJS"
+                },
+                {
+                    "icon": "images/skills/backend/spring-boot.png",
+                    "title": "Spring Boot"
+                }
+            ]
+        },
+        {
+            "title": "Frontend",
+            "items" : [
+                {
+                    "icon": "images/skills/frontend/android_new.png",
+                    "title": "Android"
+                },
+                {
+                    "icon": "images/skills/frontend/flutter.png",
+                    "title": "Flutter"
+                },
+                {
+                    "icon": "images/skills/frontend/react.png",
+                    "title": "React"
+                }
+            ]
+        },
+        {
+            "title" : "Tools & Platforms",
+            "items": [
+                {
+                    "icon": "images/skills/tools/android-studio.png",
+                    "title": "Android Studio"
+                },
+                {
+                    "icon": "images/skills/tools/docker.png",
+                    "title": "Docker"
+                },
+                {
+                    "icon": "images/skills/tools/git.png",
+                    "title": "Git"
+                },
+                {
+                    "icon": "images/skills/tools/nodejs.png",
+                    "title": "Nodejs"
+                },
+                {
+                    "icon": "images/skills/tools/unity.svg",
+                    "title": "Unity"
+                },
+                {
+                    "icon": "images/skills/tools/vsc.svg",
+                    "title": "Vistual Studio Code"
+                }
+            ]
+    },
+    {
+        "title": "Databases",
+        "items": [
+            {
+                "icon": "images/skills/databases/DynamoDB.png",
+                "title": "DynamoDB"
+            },
+            {
+                "icon": "images/skills/databases/mysql.png",
+                "title": "MySQL"
+            },
+            {
+                "icon": "images/skills/databases/postgresql.png",
+                "title": "PostgreSQL"
+            },
+            {
+                "icon": "images/skills/databases/S3.svg",
+                "title": "S3"
+            }
+        ]
+    }
+]}
