@@ -1,19 +1,30 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "title": "Sep 2022 - Dec 2024",
+            "cardTitle": "M.Sc. Biomedical Engineering",
+            "cardSubtitle":"Instituto Superior Tecnico (IST), Portugal",
+            "cardDetailedText": "Double degree program",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "images/education/tecnico.png"
             }
         },
         {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "title": "Jan 2019 - Dec 2024",
+            "cardTitle": "Bsc Computer Engineering",
+            "cardSubtitle":"Sao Paulo University (USP)",
+            "cardDetailedText": "VHDL • Web Development • Databases",
+            "icon" : {
+                "src" : "images/education/usp.png"
+            }
+        },
+        {
+            "title": "2016 - 2017",
+            "cardTitle": "Business Administration",
+            "cardSubtitle":"ETEC SP",
+            "icon" : {
+                "src" : "images/education/etec.png"
+            }
         }
     ]
 }

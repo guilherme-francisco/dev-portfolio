@@ -1,0 +1,50 @@
+{
+    "research" : [
+        {
+            "image" : "images/research/thales.jpg",
+            "title": "RPT Thales",
+            "bodyText": "- Development of tools for bigdata.\n - Application of AI to large datasets on the mobility context.",
+            "tags" : [
+                "Python",
+                "Folium",
+                "BigData"
+            ]
+        },
+        {
+            "image" : "images/research/fake_news.jpg",
+            "title": "Fake News Detection",
+            "bodyText": "The main objective of this project was to bring relevant scientific contributions to the development and practical application of explainable models that act in the moderation of content on social networks, specifically on the topic of fake news.",
+            "links": [
+                {
+                    "text": "More",
+                    "href": "https://www.overleaf.com/read/tjwvvmgkbsst#a988fe"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Machine Learning",
+                "GCN"
+            ]
+        },
+        {
+            "image" : "images/research/caninos.jpg",
+            "title": "Caninos Labrador",
+            "bodyText": " Scientific research where projects were developed for the Caninos Labrador board, a circuit that was developed entirely in Brazil. Tutorials were created and posted on a blog.",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://caninosloucos.blogspot.com/"
+                },
+                {
+                    "text": "More",
+                    "href": "https://caninosloucos.org/pt/"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Embedded",
+                "Arduino"
+            ]
+        }
+    ]
+}

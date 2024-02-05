@@ -1,122 +1,134 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/portfolio-poster.png",
-            "title": "Dev Portfolio",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "image" : "images/projects/cook_fellas.jpeg",
+            "title": "Cook Fellas",
+            "bodyText": "- Cook Fellas tries to help people by bringing easy recipes.\n - I created using Flutter and NestJS \n - More than 2M recipes.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                    "href": "https://github.com/guilherme-francisco/cook-fellas-backend"
                 },
                 {
                     "text": "Live",
-                    "href": "https://mayankagarwal.me"
+                    "href": "https://play.google.com/store/apps/details?id=com.cook_fellas"
+                },
+                {
+                    "text": "More",
+                    "href": "https://www.linkedin.com/posts/guilhermemfran_cook-fellas-cookings-for-all-apps-on-activity-7112040748622999552-pGoo"
                 }
             ],
             "tags" : [
-                "React",
-                "Portfolio",
-                "JavaScript"
+                "Flutter",
+                "Figma",
+                "NestJS"
             ]
         },
         {
-            "image" : "images/projects/caaring-poster.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "image" : "images/projects/elk_sockets.png",
+            "title": "Elk Sockets",
+            "bodyText": "A solution to the difficulty that small and medium-sized companies have in being more energy efficient, saving on electricity bills and being more sustainable.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
+                    "href": "https://github.com/marianaserrao/elk-front"
                 },
                 {
                     "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "href": "https://www.elk.pt/dashboard"
+                },
+                {
+                    "text": "More",
+                    "href": "https://www.ulisboa.pt/noticia/estudantes-do-instituto-superior-tecnico-vencem-competicao-internacional-na-area-da"
                 }
             ],
             "tags" : [
                 "Python",
                 "Django",
-                "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
+                "ReactJS"
             ]
         },
         {
-            "image" : "images/projects/quiet-hours-poster.jpg",
-            "title": "Quiet Hours App",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
+            "image" : "images/projects/kitchen_chaos.png",
+            "title": "Kitchen Chaos",
+            "bodyText": "A funny game created to learn how to use Unity. Here I also learned how to do: \n - Animations \n - Canvas \n - Input System",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
+                    "href": "https://github.com/guilherme-francisco/code-monkey-unity"
+                },
+                {
+                    "text": "More",
+                    "href": "https://www.linkedin.com/posts/guilhermemfran_unity-gamedevelopment-activity-7154982715497316352-jp7w"
+                }
+            ],
+            "tags" : [
+                "Unity",
+                "Game Developing",
+                "OOP"
+            ]
+        },
+        {
+            "image" : "images/projects/cloud_computing.jpeg",
+            "title": "Cloud Computing - Auto Scaler of EC2",
+            "bodyText": "- This is system that efficiently scales up and down EC2 instances.\n - Load balancer to distribute the workload among the instances.\n - Java-assist tool to calculate a complexity factor for each server request.\n - Storage in DynamoDB. \n - Machine learning to predict complexity.",
+            "links": [
+                {
+                    "text": "More",
+                    "href": "https://www.linkedin.com/posts/guilhermemfran_dataanalytics-cloudcomputing-project-activity-7080277796731666432-5UtR"
                 }
             ],
             "tags" : [
                 "Java",
-                "Android",
-                "Alarm Manager",
-                "VIT"
+                "Javassist",
+                "Machine Learning"
             ]
         },
         {
-            "title": "Secure Chat App",
-            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
+            "image" : "images/projects/raspberry_pi.jpeg",
+            "title": "Distributing System",
+            "bodyText": "- Networked real-time control system for a distributed illumination system.\n - 3 Raspberry Pi Pico devices, CAN-BUS, an LED, and an LDR.\n - Cooperative distributed controller.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
+                    "href": "https://github.com/mhteixeira/distributed-control-assignments"
+                },
+                {
+                    "text": "More",
+                    "href": "https://www.linkedin.com/posts/guilhermemfran_work-construction-project-activity-7058054343995850752-vPZ2"
                 }
             ],
             "tags" : [
-                "Java",
-                "Android",
-                "Firebase",
-                "RSA"
+                "Raspberry Pi",
+                "Control system",
+                "Interruptions",
+                "Multicore",
+                "C++"
             ]
         },
         {
-            "title": "MVVM Sample App",
-            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
+            "image" : "images/projects/nlp.jpeg",
+            "title": "VOE",
+            "bodyText": "- Feedbacks using the Voice of the Employee (VOE).\n - It was used voice to text (Speech Recognition).\n - We have a platform to demonstrate the feedbacks so HR can have insights.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
-                }
-            ],
-            "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Room",
-                "Coroutines",
-                "Flow",
-                "Hilt-Dagger",
-                "NetworkBoundResource"
-            ]
-        },
-        {
-            "title": "Feed List App",
-            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
-            "links": [
+                    "href": "https://github.com/mhteixeira/voe-front"
+                },
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
+                    "text": "Live",
+                    "href": "https://voe-sage.vercel.app/"
+                    
                 }
             ],
             "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Paging 3",
-                "Coroutines",
-                "Flow"
+                "ReactJS",
+                "Web Development"
             ]
         },
         {
-            "title": "Task Tracker",
+            "image" : "images/projects/vhdl.png",
+            "title": "Smart door",
             "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
             "links": [
                 {
@@ -125,13 +137,45 @@
                 }
             ],
             "tags" : [
-                "TypeScript",
-                "Angular 12",
-                "JavaScript"
+                "ESP32",
+                "Arduino",
+                "VHDL",
+                "MQQT"
             ]
         },
         {
-            "title": "Image Encryption/Decryption",
+            "image" : "images/projects/BM.png",
+            "title": "Biomechanics of movement",
+            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
+                }
+            ],
+            "tags" : [
+                "Matlab",
+                "Differential equations"
+            ]
+        },
+        {
+            "image" : "images/projects/farmacia.jpg",
+            "title": "Pharmacy delivery",
+            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
+                }
+            ],
+            "tags" : [
+                "ReactJS",
+                "Spring Boot"
+            ]
+        },
+        {
+            "image" : "images/projects/raspadinha.png",
+            "title": "Weather Station",
             "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
             "links": [
                 {
@@ -141,10 +185,43 @@
             ],
             "tags" : [
                 "Python",
-                "Django",
-                "SDES",
-                "Cryptography"
+                "Raspberry Pi",
+                "Sensors",
+                "WUnderground"
             ]
-        }
+        },
+        {
+            "image" : "images/projects/instrumentacao.jpg",
+            "title": "Guitar Hero with muscle signals",
+            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "ESP32",
+                "EMG",
+                "SVM"
+            ]
+        },
+        {
+            "image" : "images/projects/qemu.png",
+            "title": "Interruptions in ARM",
+            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
+                }
+            ],
+            "tags" : [
+                "QEMU",
+                "C",
+                "Assembly"
+            ]
+        } 
     ]
 }

@@ -40,7 +40,7 @@ function Education(props) {
   }, []);
 
   return (
-    <>
+    <div style={{ margin: 'auto' }}>
       <Header title={header} />
       {data ? (
         <Fade>
@@ -75,7 +75,7 @@ function Education(props) {
           </div>
         </Fade>
       ) : <FallbackSpinner /> }
-    </>
+    </div>
   );
 }
 
